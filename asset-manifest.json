@@ -1,15 +1,15 @@
 {
-  "main.css": "/Ashishgupta361/theme/static/css/main.96d5e61c.chunk.css",
-  "main.js": "/Ashishgupta361/theme/static/js/main.0380c3eb.chunk.js",
-  "main.js.map": "/Ashishgupta361/theme/static/js/main.0380c3eb.chunk.js.map",
-  "static/js/1.03ae7ea8.chunk.js": "/Ashishgupta361/theme/static/js/1.03ae7ea8.chunk.js",
-  "static/js/1.03ae7ea8.chunk.js.map": "/Ashishgupta361/theme/static/js/1.03ae7ea8.chunk.js.map",
-  "static/js/2.946d8365.chunk.js": "/Ashishgupta361/theme/static/js/2.946d8365.chunk.js",
-  "static/js/2.946d8365.chunk.js.map": "/Ashishgupta361/theme/static/js/2.946d8365.chunk.js.map",
-  "runtime~main.js": "/Ashishgupta361/theme/static/js/runtime~main.c4dd83a7.js",
-  "runtime~main.js.map": "/Ashishgupta361/theme/static/js/runtime~main.c4dd83a7.js.map",
-  "static/css/main.96d5e61c.chunk.css.map": "/Ashishgupta361/theme/static/css/main.96d5e61c.chunk.css.map",
-  "index.html": "/Ashishgupta361/theme/index.html",
-  "precache-manifest.e6f1b67600233eb1eb6d83fc2a695fd5.js": "/Ashishgupta361/theme/precache-manifest.e6f1b67600233eb1eb6d83fc2a695fd5.js",
-  "service-worker.js": "/Ashishgupta361/theme/service-worker.js"
+  "main.css": "/theme/static/css/main.96d5e61c.chunk.css",
+  "main.js": "/theme/static/js/main.0380c3eb.chunk.js",
+  "main.js.map": "/theme/static/js/main.0380c3eb.chunk.js.map",
+  "static/js/1.03ae7ea8.chunk.js": "/theme/static/js/1.03ae7ea8.chunk.js",
+  "static/js/1.03ae7ea8.chunk.js.map": "/theme/static/js/1.03ae7ea8.chunk.js.map",
+  "static/js/2.946d8365.chunk.js": "/theme/static/js/2.946d8365.chunk.js",
+  "static/js/2.946d8365.chunk.js.map": "/theme/static/js/2.946d8365.chunk.js.map",
+  "runtime~main.js": "/theme/static/js/runtime~main.660b43c2.js",
+  "runtime~main.js.map": "/theme/static/js/runtime~main.660b43c2.js.map",
+  "static/css/main.96d5e61c.chunk.css.map": "/theme/static/css/main.96d5e61c.chunk.css.map",
+  "index.html": "/theme/index.html",
+  "precache-manifest.f791a9120c8aa355396a7f101ebac7f9.js": "/theme/precache-manifest.f791a9120c8aa355396a7f101ebac7f9.js",
+  "service-worker.js": "/theme/service-worker.js"
 }
