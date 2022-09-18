@@ -1,5 +1,6 @@
 import './App.css';
 import { useState } from 'react';
+import React from 'react';
 
 
 function App() {
@@ -10,9 +11,7 @@ function App() {
     <div className="App">
       <h1>Counter</h1>
       <h2>Count-{num}</h2>
-      {/* <b> Enter a number </b><input type="Number" onchange={function (e) {
-        setnum(e.target.value);
-      }} /> */}
+
       <button onClick={() => {
         setnum(num + 1);
       }}>+</button>
